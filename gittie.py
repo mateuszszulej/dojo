@@ -1,4 +1,4 @@
 import sys
 
 def introduce:
-    print("Hello, i'm Gittie")
+    print("Hello, i'm Gittie!")
